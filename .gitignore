@@ -1,0 +1,12 @@
+# Directories
+__pycache__/
+my_dir/
+
+# File types
+*.pyc
+*.root
+*.keras
+*.h5
+*.hd5
+*.hdf5
+
